@@ -39,4 +39,4 @@ Nessa seção utilizamos:Next Js Bootstrap, Reactstrap
 
 Hardhat
 Openzeplin
-Alchemy;
+Alchemy;;
