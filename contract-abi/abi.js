@@ -581,7 +581,7 @@ export const abi = [
     type: "receive",
   },
 ];
-export const NFT_CONTRACT = "0x9a8b82D788833905fdfB4c91dFBB7f49E23f6646";
+export const NFT_CONTRACT = "0x30bC4C38345944475E8f75bcD27A7aFDdAC00AC6";
 
 // Fizemos o deploy na rede de testes rinkeby da ethereum foi gerado o seguinde endereço
-// de contrato
+// de contrato antigo  0x30bC4C38345944475E8f75bcD27A7aFDdAC00AC6
