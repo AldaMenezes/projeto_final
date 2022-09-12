@@ -14,11 +14,11 @@
 
 <h1>  👥Equipe: <br></h1>
 <uL> 
-	<li> <a href="https://www.linkedin.com/in/aldamenezes/">Alda Aparecida Menezes <br></li>
-	<li> <a href="https://github.com/[user]/"> Daniel Santos<br></li>
-	<li> <a href="https://github.com/mesquitaoliveira/"> Ismael Mesquita<br></li>
-	<li> <a href="https://github.com/[user]/"> Lucas Matheus<br></li>
-	<li> <a href="https://github.com/[user]/"> Lázaro<br></li>
+	<li> <a href="https://www.linkedin.com/in/aldamenezes/">Alda Aparecida Menezes</a> <br></li>
+	<li> <a href="https://github.com/[user]/"> Daniel Santos</a><br></li>
+	<li> <a href="https://github.com/mesquitaoliveira/"> Ismael Mesquita</a><br></li>
+	<li> <a href="https://github.com/[user]/"> Lucas Matheus</a><br></li>
+	<li> <a href="https://github.com/[user]/"> Lázaro<br></a></li>
 </ul>
 
 <h1 align=center>Dapp NFT CriptoSpace<br></h1>
@@ -73,9 +73,13 @@ Um exemplo de componente que foi aplicado no projeto:
 
 Um ambiente de desenvolvimento para Ethereum, auxiliando na criação do projeto smart contract, como deploy, testes, mineração.
 
-<h1 id="hardhat">Openzeppelin</h1>
+<h1 id="openzeplin">Openzeppelin</h1>
 
 Biblioteca de smart contracts padrões para a criação do token. Uma biblioteca que é testada por diversos desenvolvedores da tecnologia blockchain.
+
+<h1 id="alchemy">Alchemy</h1>
+
+Uma plataforma de desenvolvimento web3, utilizamos para conecta a Dapp, permitindo a gestão e o acompanhamento na mineração, venda e compra da NFTs/Tokens.
 
 <h1 id="zoom">Zoom</h1>
 
