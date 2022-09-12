@@ -99,7 +99,7 @@ Os designers NFTs foram criadas utilizando o Figma e biblioteca de imagens gratu
 <h1 id="deploy">Como Executar</h1>
 
 ### Deploy 
-Para facilitar a visualização da aplicação, ela já foi colocada no ar com auxílio do [vercel](https://vercel.com/), assim como foi solicitado , e seu deploy pode ser acessado no seguinte link: [Cripto-Space.](https://cripto-space-front.vercel.app/)
+Para facilitar a visualização da aplicação, ela já foi colocada no ar com auxílio do [vercel](https://vercel.com/), assim como foi solicitado , e seu deploy pode ser acessado no seguinte link: [Cripto-Space.](https://cripto-space.vercel.app/)
 
 Além disso, pode-se optar ainda por clonar este repositório e utilizar, por exemplo,  lendo as instruções a seguir.
 
