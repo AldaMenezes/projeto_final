@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;800&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background-image: url(../public/images/gradient-bg.png);
+  background-size: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.section {
+  padding-top: 100px;
+  padding-bottom: 75px;
+  position: relative;
+}
+.section span {
+  background: -webkit-linear-gradient(
+    35deg,
+    rgba(24, 200, 255, 1),
+    rgba(147, 63, 254, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.section h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: 800 !important;
+  font-style: none;
+  color: #fff !important;
+}
+.section p {
+  font-weight: 400;
+  font-style: none;
+  color: #fff !important;
+}

@@ -1,0 +1,80 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  padding: 5rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer .container {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.02);
+  backdrop-filter: blur(4px);
+}
+
+.title a {
+  color: #0070f3;
+  text-decoration: none;
+}
+
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+.title,
+.description {
+  text-align: center;
+}
+
+.description {
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 800px;
+  margin-top: 3rem;
+}
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+.buttonwallet {
+  background: -webkit-linear-gradient(
+    18deg,
+    rgba(24, 200, 255, 1),
+    rgba(147, 63, 254, 1) 100%
+  );
+  border: none;
+  border-radius: 10px;
+}
+.buttonwallet:hover {
+  background: -webkit-linear-gradient(
+    18deg,
+    rgb(120, 43, 147),
+    rgb(6, 73, 83) 100%
+  );
+}

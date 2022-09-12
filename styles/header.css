@@ -1,0 +1,52 @@
+.header {
+  padding: 0px 15px;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+.header .nav-item {
+  padding: 0px 40px;
+  align-items: stretch;
+}
+.header .nav-item a {
+  font-weight: 600;
+  color: #fff !important;
+}
+.header .navbar {
+  padding: 10px 0px;
+  line-height: 40px;
+}
+
+.header.sticky {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 91;
+}
+
+.header.sticky .navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 10px 15px;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.02);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(4px);
+}
+.header .navbar-link a {
+  font-weight: 600;
+  color: #fff !important;
+}
+.header .navbar-brand {
+  font-weight: 700;
+  color: #fff;
+}
+.navbar-brand span {
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(24, 200, 255, 1),
+    rgba(147, 63, 254, 1) 100%
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
