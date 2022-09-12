@@ -213,11 +213,11 @@ const Hero = () => {
           <Col lg={6}>
             <div className="pr-lg-5">
               <h1 className="mb-4 font-weight-normal line-height-1_4">
-                Adiquira agora seu <span>NFT</span> Cripto{" "}
+                Adquira agora seu <span>NFT</span> Cripto{" "}
                 <span className="text-primary font-weight-medium">Space</span>
               </h1>
               <p className="text-muted mb-4 pb-2">
-                A CriptoSpace existe para debravar todo o potencial do universo
+                A CriptoSpace existe para desbravar todo o potencial do universo
                 cripto. Se você, assim como nós acredita nisso, não perca a
                 chance de adquirir seu ativo digital.
               </p>

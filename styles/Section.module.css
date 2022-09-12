@@ -1,0 +1,13 @@
+.linksSocialGithub, .linksSocialLinkedin {
+  text-decoration: none !important;
+  color: #000;
+  transition: .2s linear;
+}
+
+.linksSocialGithub:hover{
+  color: rgba(147, 63, 254, 1);
+}
+
+.linksSocialLinkedin:hover{
+  color: rgb(45, 109, 205) !important;
+}

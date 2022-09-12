@@ -9,7 +9,7 @@ const Footer = () => {
           <Col md={12}>
             <div className="text-center text-muted">
               <p className="mb-0 f-15">
-                Todos os Direitos Reservados a CriptoSapace
+                Todos os Direitos Reservados a CriptoSpace© 2022
               </p>
             </div>
           </Col>
