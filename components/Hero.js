@@ -20,7 +20,7 @@ const Hero = () => {
       const signer = await getProviderOrSigner(true);
       const whitelistContract = new Contract(NFT_CONTRACT, abi, signer);
       const tx = await whitelistContract.presaleMint({
-        value: utils.parseEther("0.001"),
+        value: utils.parseEther("0.01"),
       });
       setLoading(true);
       await tx.wait();
